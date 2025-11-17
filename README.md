@@ -16,15 +16,17 @@ My goals for each section of the project are:
 3. Some stretch goals I have are: having more than three games for users to choose from (other options are things like maybe sudoku, a type of wordle game, etc), having timers on all the games so that users can create some competition aspects with their friends, and possibly having profiles for users to keep track of their times/past games they've played.
 
 
-I am excited to do a more creative, game-centerd project! :)
+I am excited to do a more creative, game-centered project! :)
 
 
 ## Milestone 2 - Static Version
-For this static version I figured out how to use Next.js for the first time! Having all of the pages link in to the home and creating a navigation bar was not too crazy, and I enjoyed the extra practice with CSS to bring together the overall look of my app. I want it to be silly and playful, so I used pastel colors and the "cursive" font since it looks more hand-written and super fun for people to use.
+For this static version I figured out how to use Next.js for the first time! Through the lecture on Next.js, reading through the documentation, and asking ChatGPT syntax-specific questions I have built this multi-page static version. Having all of the pages link in to the home and creating a navigation bar was not too crazy, and I enjoyed the extra practice with CSS to bring together the overall look of my app. I want it to be silly and playful, so I used pastel colors and the "cursive" font since it looks more hand-written and super fun for people to use.
 
-<img width="480" height="276.5" alt="image" src="https://github.com/user-attachments/assets/326231f8-7243-4b47-a06f-70b7af839965" />
+I have successfully achieved my goal of finishing the high fidelity (with a fun design!), static version of all three games. The pages are also all connected with the nav bar, making going through all of the pages seamless. 
 
-My home page does not have an UI components, since they are all links in the nav bar and buttons linking to the other pages.
+<img width="795" height="463.5" alt="image" src="https://github.com/user-attachments/assets/7ed5d31e-dc2e-4c69-a6cc-35b65b88b085" />
+
+My home page (above) does not have an UI components, since they are all links in the nav bar and buttons linking to the other pages.
 
 <img width="801.5" height="467.5" alt="image" src="https://github.com/user-attachments/assets/952f1f84-2a2b-46a1-b099-1928260d5191" />
 
