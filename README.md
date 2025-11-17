@@ -17,3 +17,38 @@ My goals for each section of the project are:
 
 
 I am excited to do a more creative, game-centerd project! :)
+
+
+## Milestone 2 - Static Version
+For this static version I figured out how to use Next.js for the first time! Having all of the pages link in to the home and creating a navigation bar was not too crazy, and I enjoyed the extra practice with CSS to bring together the overall look of my app. I want it to be silly and playful, so I used pastel colors and the "cursive" font since it looks more hand-written and super fun for people to use.
+
+<img width="480" height="276.5" alt="image" src="https://github.com/user-attachments/assets/326231f8-7243-4b47-a06f-70b7af839965" />
+
+My home page does not have an UI components, since they are all links in the nav bar and buttons linking to the other pages.
+
+<img width="801.5" height="467.5" alt="image" src="https://github.com/user-attachments/assets/952f1f84-2a2b-46a1-b099-1928260d5191" />
+
+Hangman's UI hierarchy is: (above)
+1. Page
+2. Nav bar
+3. Game parts
+4. Inputs
+5. Hangman drawing
+6. Wrong letters already guess
+
+<img width="789.5" height="469.5" alt="image" src="https://github.com/user-attachments/assets/923b7338-cb83-4959-9359-f672516ee5c1" />
+
+The Rock, Paper, Scissors's UI hierarchy is: (above)
+1. Page
+2. Nav bar
+3. Game Parts
+4. Inputs
+5. Computer's randomized "rock, paper, or scissors"
+
+<img width="790" height="467.5" alt="image" src="https://github.com/user-attachments/assets/b44ed801-e591-4468-acc6-437cdf103514" />
+
+The Memory game's UI hierarchy is: (above)
+1. Page
+2. Nav Bar
+3. All of the cards
+4. Indivivdual Cards
