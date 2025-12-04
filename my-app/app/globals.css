@@ -126,7 +126,6 @@ button {
   height: 200px;
   background-color: #e9c6ff;
   border-radius: 12px;
-  padding: 5px;
 }
 
 .hangAll {
@@ -164,6 +163,20 @@ button {
   align-items: center;
   border-radius: 12px;
   font-size: larger;
+}
+
+.endHang {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.endMem {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
 }
 
 input {
