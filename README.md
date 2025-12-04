@@ -54,3 +54,12 @@ The Memory game's UI hierarchy is: (above)
 2. Nav Bar
 3. All of the cards
 4. Indivivdual Cards
+
+
+## Milestone 3 - Minimum Viable Product
+
+This project was super fun to make! I liked that I could be silly but still make a finished product that I am proud of.
+
+My biggest hiccup across the whole project was React's re-rendering process. Every time I was about to explode because something was going wrong I went to my good friend (much needed at some points throughout this project) ChatGPT and it very nicely let me know that it was the same issue every time. I will say, every time I was stuck and used ChatGPT, I made sure to learn my code more and figure out what was going on instead of just copy and pasting. I am very glad we got to use it as a tool!
+
+I may take hours and hours to code something another person could in less than half the time, but I am proud of my progress throughout this class! I always say: "I love to code... when it works!... and it never works..." But I really did enjoy working on this project, it was super fun!
