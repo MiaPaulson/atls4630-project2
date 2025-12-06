@@ -63,3 +63,12 @@ This project was super fun to make! I liked that I could be silly but still make
 My biggest hiccup across the whole project was React's re-rendering process. Every time I was about to explode because something was going wrong I went to my good friend (much needed at some points throughout this project) ChatGPT and it very nicely let me know that it was the same issue every time. I will say, every time I was stuck and used ChatGPT, I made sure to learn my code more and figure out what was going on instead of just copy and pasting. I am very glad we got to use it as a tool!
 
 I may take hours and hours to code something another person could in less than half the time, but I am proud of my progress throughout this class! I always say: "I love to code... when it works!... and it never works..." But I really did enjoy working on this project, it was super fun!
+
+
+## Milestone 4 - Reflection
+
+My creative approach was really just leaning into the fun and silly. Everything is always so serious all the time, and having the "child-like" qualities of fun games was really my main inspriation for these games! I was unable to acheive my stretch goals of timers for the memory game and tallies for the rock, paper, scissors game, but I am still very proud of myself for creating these mini games! Even if they are not the most competitive (that would come with the stretch goals) they are fun, and they work great.
+
+Learning Next.js came with its quirks, but it was not too crazy. A lot of trial and error, but the lecture in class helped because it was not entirely foreign. Sometimes with coding projects I feel like I have to relearn the coding language and logic every time I sit down to do it, but once I got this project started it wasn't too bad to keep it rolling!
+
+Doing silly CSS was super fun since I got to use the crazy not-so-accepted colors and a more goofy font. As a UI/UX desinger, working to design something that is not sleek and modern like what most people are lookng for these days took me out of my common design practices, but allowed me to have fun with the process and create something unique.
